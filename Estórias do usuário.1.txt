@@ -1,0 +1,48 @@
+							
+								
+								Definição das necessidades do Projeto
+
+
+1ª Qual o problema?
+R: Longas filas de espera em hospitais, unidades de apoio, entre outros; grande difilculdade para conseguir marcar uma consulta. 
+2ª Por que é relevante?
+R: É relevante pois, diversas pessoas passam por esse problema; realmente sentem na pele a dificuldade para se conseguir
+um atendimento médico.
+3ª Quem são seus concorrentes e por quê o seu é melhor?
+R: Sistemas web,  entre outros. Muitos sistemas que existem hoje,  visam na maioria das vezes, conseguir ganhar clientes
+visando mais o lucro comercial,  ao invés do paciente em si. Minha proposta é focar no paciente que é a peça principal
+do sistema, que o paciente possa se cadastrar e marcar sua consulta visando minimizar o estresse do paciente, que antes
+enfrentava filas enormes, por exemplo.
+4ª Há mercado?(Há muitas pessoas com esse problema?)
+R: Sim, pois onde moramos esses serviços  nem sempre  são oferecidos, por isso as vezes
+os pacientes se destinam a outra cidade afim de conseguir seu determinado atendimento.
+5ª Quem é o público alvo?
+R: Pacientes.
+
+
+
+
+
+
+
+
+
+Estórias do usuário:
+
+(prior.5)1.Como um paciente, quero me cadrastrar no  sistema para ter acesso a ele.
+(prior.4)2.Como um paciente, quero marcar uma consulta, por meio do sistema, afim de conseguir meu atendimento. 
+(prior.4)3.Como um paciente, quero agendar minha consulta, num horário e data acessível para mim, em um horário
+de funcionamento disponível pelo "hospital".
+(prior.5)4.Como um médico, quero me cadastrar no  sistema para ter acesso ao mesmo, e especificar minha(s) respectiva(s)
+especialidade(s).
+(prior.3)5.Como um paciente, quero verificar  qual médico com tal especialidade irá atender-me no dia e hora
+desejada de meu atendimento.
+------------------------------------------
+6.Como um paciente,  quero saber os horários de funcionamento de tal "hospital",  afim de que eu possa me
+destinar ao mesmo,  para uma eventual consulta.
+7.Como um paciente,  em caso de algum imprevisto no centro hospitalar, que interrompa o meu atendimento, eu 
+queria ser informado(Ex:  alguém da sede hospitalar seria ou poderia verificar ou informar aos pacientes
+por meio do software que gerencia os cadrastros e consulta dos pacientes),  afim de que eu não perca
+minha viagem, meu tempo.
+8.Como um paciente, denpendendo das circunstancias(por ser um paciente: idoso, gestante, entre outros), quero está ciente,
+ se terei preferência no meu atendimento,  de acordo com meu perfil fisiológigo.
